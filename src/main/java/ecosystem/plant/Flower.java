@@ -1,4 +1,4 @@
 package ecosystem.plant;
 
-public class Flower implements Plant{
+public class Flower implements Plant {
 }
